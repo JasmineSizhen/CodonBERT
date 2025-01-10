@@ -1,6 +1,6 @@
 # CodonBERT
 
-Repository containing data, code and walkthrough for methods in the paper [*CodonBERT: large language models for mRNA design and optimization*](https://www.biorxiv.org/content/10.1101/2023.09.09.556981v1).
+Repository containing data, code and walkthrough for methods in the paper [*CodonBERT: large language models for mRNA design and optimization*](https://genome.cshlp.org/content/34/7/1027).
 
 ### Environment Setup
 
